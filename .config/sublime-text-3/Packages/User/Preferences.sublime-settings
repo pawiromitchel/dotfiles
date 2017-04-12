@@ -1,9 +1,9 @@
 {
 	"always_show_minimap_viewport": true,
-	"bold_folder_labels": true,
+	// "bold_folder_labels": true,
 	"color_scheme": "Packages/Color Scheme - Default/iPlastic.tmTheme",
 	"draw_minimap_border": true,
-	"font_size": 12,
+	"font_size": 10,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
