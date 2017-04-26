@@ -40,6 +40,34 @@ sudo apt install gzdoom -y
 - Change the Wine version to `1.9.2-LeagueOfLegends5`
 
 ### Fix League Game performance
-```
 
+- locate te League config (config/Game.cfg)
+- replace / change the settings
+
+```
+[Performance]
+CharacterInking=0
+GraphicsSlider=-1
+ShadowsEnabled=0
+EnableHUDAnimations=0
+PerPixelPointLighting=0
+EnableParticleOptimizations=0
+BudgetOverdrawAverage=10
+BudgetSkinnedVertexCount=200000
+BudgetSkinnedDrawCallCount=100
+BudgetTextureUsage=150000
+BudgetVertexCount=500000
+BudgetTriangleCount=300000
+BudgetDrawCallCount=1000
+EnableGrassSwaying=0
+EnableFXAA=0
+AdvancedShader=0
+FrameCapType=2
+ShadowQuality=0
+EffectsQuality=0
+GammaEnabled=1
+Full3DModeEnabled=0
+EnvironmentQuality=0
+CharacterQuality=0
+AutoPerformanceSettings=0
 ```
