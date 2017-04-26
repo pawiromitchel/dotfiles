@@ -38,3 +38,8 @@ sudo apt install gzdoom -y
   - vcruntime140
   - msvcp140
 - Change the Wine version to `1.9.2-LeagueOfLegends5`
+
+### Fix League Game performance
+```
+
+```
