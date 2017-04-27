@@ -69,8 +69,11 @@ sudo apt install gzdoom -y
 
 ### Fix League Game performance
 
-- locate te League config (config/Game.cfg)
-- replace / change the settings
+- locate te League config (/YourLeagueFolder/Config/Game.cfg)
+- open with any text-editor
+- search for the [Performance] section in the file
+- replace or change the settings
+- save and exit
 
 ```
 [Performance]
