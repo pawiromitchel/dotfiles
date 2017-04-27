@@ -2,7 +2,6 @@
 
 ## Tools | Software
 
-The software that I use are:
 - Google Chrome, with some webstore apps:
   - Gliffy Diagrams
   - Postman
