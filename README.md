@@ -1,7 +1,35 @@
 # Dotfiles
 
+## Tools | Software
 
-## Notes
+The software that I use are:
+- Google Chrome, with some webstore apps:
+  - Gliffy Diagrams
+  - Postman
+- Subliem Text 3, with packages like
+  - Package Control
+  - Boxy Theme
+  - Brackethighlighter
+  - HTMLBeautify
+  - Sidebarenhancements
+- IntelliJ IDEA
+- Smartgit
+- MySQL Workbench
+- WPS Office
+- Discord ~> VOIP
+- Thunderbird ~> Email client
+- Steam
+- Gimp ~> Image editor
+- PlayOnLinux ~> Wine frontend layer
+- PHPStorm
+- Android Studio
+- Pencil
+- Darktable
+- Filezilla
+- youtube-dl
+- Handbrake ~> Convert Video's
+
+## Games
 
 ### Install GZDOOM
 
@@ -13,6 +41,7 @@ wget -qO - http://debian.drdteam.org/drdteam.gpg | sudo apt-key add -
 sudo apt update
 sudo apt install gzdoom -y
 ```
+## Patches | Fixes
 
 ### Better JAVA font rendering
 
