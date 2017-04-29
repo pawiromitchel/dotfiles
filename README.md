@@ -20,7 +20,7 @@
 - Steam
 - Gimp ~> Image editor
 - PlayOnLinux ~> Wine frontend layer
-- PHPStorm
+- PHPStorm ~> http://us.idea.lanyus.com/
 - Android Studio
 - Pencil
 - Darktable
