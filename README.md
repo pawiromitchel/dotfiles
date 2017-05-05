@@ -40,6 +40,16 @@ wget -qO - http://debian.drdteam.org/drdteam.gpg | sudo apt-key add -
 sudo apt update
 sudo apt install gzdoom -y
 ```
+
+### Install Unreal Tournament Linux Native Client
+
+Download the client from : https://www.epicgames.com/unrealtournament/forums/unreal-tournament-discussion/announcements/384484-0-1-10-update-posted-4-18-2017
+
+- go to the link
+- click "YES to get the Linux client."
+- wait for the dowload
+- Coming soon ....
+
 ## Patches | Fixes
 
 ### Better JAVA font rendering
