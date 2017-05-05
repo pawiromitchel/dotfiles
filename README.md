@@ -27,7 +27,10 @@
 - Filezilla
 - youtube-dl
 - Handbrake ~> Convert Video's
-- Zeal ~> Offline documentation browser ~> https://zealdocs.org/ ~> `sudo apt-get install zeal`
+- Zeal
+  - Descr   : Offline documentation browser
+  - Link    : https://zealdocs.org/
+  - Install : `sudo apt-get install zeal`
 
 ## Games
 
