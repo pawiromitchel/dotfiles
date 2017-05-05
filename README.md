@@ -27,6 +27,7 @@
 - Filezilla
 - youtube-dl
 - Handbrake ~> Convert Video's
+- Zeal ~> Offline documentation browser ~> https://zealdocs.org/
 
 ## Games
 
