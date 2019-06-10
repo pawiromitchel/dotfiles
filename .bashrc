@@ -19,3 +19,11 @@ export CHEAT_USER_DIR="$HOME/.cheat"
 # start tmux session automatically
 tmux new -A -s default
 
+# add local bin
+export PATH="$HOME/.local/bin:$PATH"
+
+# pip install cheat
+export CHEAT_USER_DIR="$HOME/.cheat"
+
+# flutter
+export PATH="$PATH:$HOME/HDD/Softwares/flutter/bin"
