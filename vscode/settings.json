@@ -1,38 +1,12 @@
 {
-    "gitlens.advanced.messages": {
-        "suppressShowKeyBindingsNotice": true
-    },
-    "git.autofetch": true,
-    "git.enableSmartCommit": true,
-    "editor.wordWrap": "on",
-    "editor.formatOnType": true,
-    "editor.minimap.showSlider": "always",
-    "files.autoGuessEncoding": true,
-    "breadcrumbs.enabled": true,
-    "explorer.confirmDelete": false,
-    "vsicons.projectDetection.autoReload": true,
-    "workbench.startupEditor": "newUntitledFile",
     "window.zoomLevel": 0,
-    "typescript.updateImportsOnFileMove.enabled": "always",
-    "files.exclude": {
-        "**/*.js": {"when": "$(basename).ts"},
-        "**/*.css": {"when": "$(basename).scss"}
-    },
-    "vsicons.dontShowNewVersionMessage": true,
-    "git.confirmSync": false,
-    "workbench.colorTheme": "One Dark Pro Vivid",
     "files.autoSave": "afterDelay",
-    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.wordWrap": "on",
     "editor.mouseWheelZoom": true,
     "editor.smoothScrolling": true,
-    "editor.cursorBlinking": "smooth",
-    "editor.find.autoFindInSelection": true,
-    "files.insertFinalNewline": true,
-    "files.trimTrailingWhitespace": true,
-    "workbench.editor.closeOnFileDelete": true,
-    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "editor.cursorSmoothCaretAnimation": true,
     "workbench.iconTheme": "vscode-icons",
     "powermode.enabled": true,
     "powermode.presets": "flames",
-    "npm.enableScriptExplorer": true
+    "typescript.updateImportsOnFileMove.enabled": "always"
 }
